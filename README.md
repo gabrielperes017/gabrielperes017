@@ -8,8 +8,8 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielperes16&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes16&layout=compact&theme=radical&margin_left=10%)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielperes17&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes17&layout=compact&theme=radical&margin_left=10%)
 
 </div>
 
