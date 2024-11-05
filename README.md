@@ -1,7 +1,7 @@
-<img align="center" alt="Rafa-HTML" height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=5c0013&textBg=false"> 
+<img align="center" alt="Rafa-HTML" height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00BFFF&section=header&reversal=false"> 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause&weight=680&size=45&duration=4500&pause=1000&color=Ff355e&margin_left=200&center=true&vCenter=true&random=False&width=720&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+17+years+old;I'm+From+Brazil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause&weight=680&size=45&duration=4500&pause=1000&color=00BFFFe&margin_left=200&center=true&vCenter=true&random=False&width=720&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+17+years+old;I'm+From+Brazil" alt="Typing SVG" />
 </p>
 
 <br><br>
@@ -20,9 +20,8 @@
     <img src="https://www.codewars.com/users/player_hirotaka/badges/small" alt="Codewars badge">
   </a>
 </div>
-<br>
 
-### Technologies I master:
+### 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝑰 𝒎𝒂𝒔𝒕𝒆𝒓:
 <div style="display: flex;">
     <img align="center" alt="Python" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
     <img align="center" alt="SQL"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
