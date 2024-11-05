@@ -22,11 +22,12 @@
 </div>
 <br>
 
-𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜'𝗺 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴
+### Technologies I master:
 <div style="display: flex;">
     <img align="center" alt="Python" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
     <img align="center" alt="SQL"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="PHP"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+    <img align="center" alt="GIT"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
 </div>
 
 <br>
