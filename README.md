@@ -6,8 +6,9 @@
 <br><br>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playerHirotaka&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerHirotaka&layout=compact&theme=tokyonight&margin_left=10%)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=playerHirotaka&amp;rank_icon=github&theme=dark#gh-dark-mode-only)
 </div>
 <br>
 <div align="center">
