@@ -9,8 +9,8 @@
 <div align="center">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielperes17&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes17&layout=compact&theme=tokyonight&margin_left=10%)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playerHirotaka&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerHirotaka&layout=compact&theme=tokyonight&margin_left=10%)
 
 </div>
 
