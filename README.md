@@ -18,9 +18,9 @@
 </div>
 ### 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝑰 𝒎𝒂𝒔𝒕𝒆𝒓:
 <div style="display: flex;">
-    <img align="center" alt="Python" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
+    <img align="center" alt="PHP" height="70" width="90" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" >
     <img align="center" alt="SQL"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="PHP"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="JAVA"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" alt="GIT"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
 </div>
 <br>
