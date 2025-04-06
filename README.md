@@ -8,8 +8,8 @@
   
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=playerHirotaka&amp;rank_icon=github&theme=dark#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playerHirotaka&layout=donut-vertical&icon=github&theme=dark#gh-dark-mode-only)](https://github.com/playerHirotaka/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=gabrielperes017&amp;rank_icon=github&theme=dark#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes017&layout=donut-vertical&icon=github&theme=dark#gh-dark-mode-only)](https://github.com/playerHirotaka/github-readme-stats)
 </div>
 <br>
 <div align="center">
